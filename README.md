@@ -14,10 +14,3 @@
 
 <img align="left" alt="milanb0z's Github Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=milanb0z&show_icons=true&hide_border=true" />
 
-
----
-
-[website]: https://milanb0z.netlify.com
-[instagram]: https://instagram.com/bozic_milan_01
-[linkedin]: https://www.linkedin.com/in/milan-bozic-6b238a175/
-[codepen]: https://codepen.io/MilanBoz/
